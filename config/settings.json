@@ -1,0 +1,8 @@
+{
+    "bot_name": "doxxed server bot",
+    "mainURL": "https://media.discordapp.net/attachments/682005968514449460/823602745633538099/image0.png",
+
+    "loop_status_types": true,
+    "loop_status": ["COMPETING", "PLAYING", "WATCHING"],
+    "status": ".help"
+}
