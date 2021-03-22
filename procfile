@@ -1,1 +1,2 @@
-worker: node index.js
+Worker: npm i
+Worker: node index.js
